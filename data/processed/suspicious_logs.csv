@@ -1,0 +1,10 @@
+log
+Jan 10 12:34:00 myhost sshd[12345]: Accepted password for user charlie from 192.168.1.15 port 22 ssh2
+Jan 10 12:31:00 myhost sshd[12345]: Accepted password for user alice from 192.168.1.11 port 22 ssh2
+Jan 10 12:31:00 myhost sshd[12345]: Accepted password for user alice from 192.168.1.11 port 22 ssh2
+Jan 10 12:31:00 myhost sshd[12345]: Accepted password for user alice from 192.168.1.11 port 22 ssh2
+Jan 10 12:34:00 myhost sshd[12345]: Accepted password for user charlie from 192.168.1.15 port 22 ssh2
+Jan 10 12:31:00 myhost sshd[12345]: Accepted password for user alice from 192.168.1.11 port 22 ssh2
+Jan 10 12:34:00 myhost sshd[12345]: Accepted password for user charlie from 192.168.1.15 port 22 ssh2
+Jan 10 12:34:00 myhost sshd[12345]: Accepted password for user charlie from 192.168.1.15 port 22 ssh2
+Jan 10 12:34:00 myhost sshd[12345]: Accepted password for user charlie from 192.168.1.15 port 22 ssh2
